@@ -1,0 +1,1 @@
+Demo CSV files are included for course progress, study activity and quiz questions. The Streamlit app uses its own SQLite database for actual user quiz/activity records; these CSVs are sample datasets for inspection and extension.

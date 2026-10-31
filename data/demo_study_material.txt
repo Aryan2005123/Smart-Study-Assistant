@@ -1,0 +1,31 @@
+INTRODUCTION TO ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING
+
+Artificial intelligence (AI) is a branch of computer science concerned with building systems that perform tasks normally associated with human intelligence. These tasks include learning, reasoning, perception, language understanding and decision making. An AI system uses data, algorithms and computational resources to produce useful outputs.
+
+Machine learning is a subfield of artificial intelligence. It enables computer systems to learn patterns from examples instead of relying only on explicitly written rules. A machine learning model is trained using a dataset and then evaluated on data that was not used during training. The quality of a model depends on data quality, feature selection, model choice and evaluation.
+
+Supervised learning uses labelled examples. Each training record contains input features and a known target value. Classification predicts a category, such as spam or not spam. Regression predicts a continuous value, such as a house price. Common supervised algorithms include decision trees, random forests, support vector machines and linear regression.
+
+Unsupervised learning works with data that does not contain target labels. Clustering groups similar observations, while dimensionality reduction represents data using fewer variables. K-means is a widely used clustering algorithm. It assigns each observation to the nearest cluster centre and updates the centres until the assignments stabilize.
+
+Deep learning is a subfield of machine learning that uses neural networks with multiple layers. Artificial neural networks contain interconnected units called neurons. Each neuron applies weights, a bias and an activation function to its inputs. During training, backpropagation calculates gradients and an optimizer updates model parameters to reduce a loss function.
+
+Convolutional neural networks are commonly used for image tasks. Convolution layers learn spatial filters, pooling layers reduce feature-map dimensions and fully connected layers combine extracted features for prediction. Recurrent neural networks process sequential data by maintaining information from earlier time steps. Long short-term memory networks use gates to manage information over longer sequences.
+
+Natural language processing enables computers to work with human language. Typical NLP tasks include tokenization, stop-word removal, stemming, lemmatization, sentiment analysis, named entity recognition and text classification. Tokenization divides text into smaller units such as words or subwords. TF-IDF represents documents using term importance, while word embeddings represent words as dense numerical vectors.
+
+Transformer models use attention mechanisms to model relationships between tokens. Self-attention allows each token to use information from other tokens in the sequence. BERT-style models are commonly used for language understanding tasks, while encoder-decoder models such as BART can be used for text summarization. A pretrained model can be adapted to a task using fine-tuning or used directly through a task-specific pipeline.
+
+A reliable machine learning workflow includes defining the problem, collecting data, cleaning data, exploring patterns, preparing features, splitting data, training models, evaluating results and monitoring performance. Classification metrics include accuracy, precision, recall and F1-score. For imbalanced datasets, accuracy alone can be misleading, so precision, recall and the confusion matrix should also be considered.
+
+Ethical AI requires attention to privacy, fairness, transparency, accountability and security. Training data may contain bias, and model predictions can reproduce that bias. Systems should be evaluated on representative data and their limitations should be communicated clearly. Human review remains important for high-impact decisions.
+
+KEY REVISION POINTS
+1. AI is the broad field; machine learning is one of its subfields.
+2. Supervised learning uses labelled data; unsupervised learning does not use target labels.
+3. Classification predicts categories; regression predicts numerical values.
+4. Deep learning uses neural networks with multiple layers.
+5. CNNs are effective for spatial data such as images.
+6. NLP techniques prepare and analyze human language.
+7. Transformers use attention to model token relationships.
+8. Model evaluation must use suitable metrics and unseen test data.

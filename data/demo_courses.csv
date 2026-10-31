@@ -1,0 +1,6 @@
+CourseID,CourseName,Category,Progress,Difficulty,NextTask
+C101,Natural Language Processing,AI & ML,72,Intermediate,Revise TF-IDF
+C102,Deep Learning,AI & ML,48,Advanced,Practice CNN layers
+C103,Data Analytics,Analytics,86,Beginner,Build a dashboard
+C104,Python Programming,Programming,91,Beginner,Solve functions exercise
+C105,Cloud Computing,Cloud,35,Intermediate,Review deployment models

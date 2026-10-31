@@ -1,0 +1,6 @@
+QuestionID,Topic,Question,OptionA,OptionB,OptionC,OptionD,CorrectOption
+Q001,NLP,What does NLP stand for?,Natural Language Processing,Neural Learning Program,Network Link Protocol,Numeric Logic Process,A
+Q002,Deep Learning,Which architecture is commonly used for images?,RNN,CNN,K-means,TF-IDF,B
+Q003,Machine Learning,Which learning type uses labelled examples?,Unsupervised,Reinforcement only,Supervised,Clustering,C
+Q004,Transformers,Which mechanism is central to transformers?,Pooling,Self-attention,Backpropagation only,K-means,B
+Q005,Evaluation,Which metric is useful with imbalanced classes?,Only accuracy,Precision and recall,File size,Training time only,B
